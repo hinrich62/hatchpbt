@@ -3,5 +3,5 @@ A statistical tool to conduct an a priori analysis of the precision and accuracy
 
 Filename | Description
 ---------| -----------
-hatchpbt.s | R-code to run to estimate standard errors and bias
+hatchpbt.R | R-code to run to estimate standard errors and bias
 hatchpbt-6-4-2022.pdf | Documentation file
